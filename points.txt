@@ -2,6 +2,9 @@ Dagusmuh resolusi
 belajar git dan github
 belajar logika
 belajar html lagi
+ " mulai belajar hari ini
+ " mendownload video dari web programming unpas
 belajar css lagi
 belajar php lagi
 belajar javascript
+belajar membuat video dari sekarang
