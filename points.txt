@@ -2,6 +2,8 @@ Dagusmuh resolusi
 belajar git dan github
 belajar logika
 belajar html lagi
+ " mulai jam ini
 belajar css lagi
 belajar php lagi
 belajar javascript
+ " selain video juga membuat konten blog
