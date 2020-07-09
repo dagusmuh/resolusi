@@ -3,3 +3,6 @@ belajar git dan github
 belajar logika
 bikin konten tentang informatika setidaknya seminggu sekali vlog atau blog
 belajar html lagi
+belajar css lagi
+belajar php lagi
+belajar javascript
